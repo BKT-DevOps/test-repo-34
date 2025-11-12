@@ -1,11 +1,11 @@
-# project-terraform-github
+# test-repo-34
 
 <details open>
 <summary><strong>🇹🇷 Türkçe</strong></summary>
 
 <br>
 
-> **ÖNEMLİ:** Bu repodaki kodlar, daha büyük bir proje olan **InfraCoders** projesinin bir parçasıdır. Projenin genel hedefleri hakkında bilgi için [`docs/PROJECT.md`](docs/PROJECT.md) belgesini inceleyin.
+> **ÖNEMLİ:** Bu repodaki kodlar, daha büyük bir proje olan **project-test-ismail** projesinin bir parçasıdır. Projenin genel hedefleri hakkında bilgi için [`docs/PROJECT.md`](docs/PROJECT.md) belgesini inceleyin.
 
 <!-- LÜTFEN BU ALANI DOLDURUN: Bu reponun ne işe yaradığını anlatan bir veya iki cümlelik kısa bir açıklama ekleyin. -->
 
@@ -22,8 +22,8 @@
 
 1.  **Repoyu Klonlayın:**
     ```bash
-    git clone https://github.com/BKT-DevOps/project-terraform-github.git
-    cd project-terraform-github
+    git clone https://github.com/BKT-DevOps/test-repo-34.git
+    cd test-repo-34
     ```
 2.  **Bağımlılıkları Yükleyin:**
     <!-- Doldur: Bağımlılıkları kurmak için gereken komutu buraya yazın (Örnek: npm install). -->
@@ -50,7 +50,7 @@ Bu proje **MIT Lisansı** ile lisanslanmıştır. Detaylar için [`LICENSE`](LIC
 
 <br>
 
-> **IMPORTANT:** This repository is part of a larger project: **InfraCoders**. For project goals, please review the [`docs/PROJECT.md`](docs/PROJECT.md) document.
+> **IMPORTANT:** This repository is part of a larger project: **project-test-ismail**. For project goals, please review the [`docs/PROJECT.md`](docs/PROJECT.md) document.
 
 <!-- PLEASE FILL THIS IN: Add a short, one-sentence description of what this repository does. -->
 
@@ -66,8 +66,8 @@ Bu proje **MIT Lisansı** ile lisanslanmıştır. Detaylar için [`LICENSE`](LIC
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/BKT-DevOps/project-terraform-github.git
-    cd project-terraform-github
+    git clone https://github.com/BKT-DevOps/test-repo-34.git
+    cd test-repo-34
     ```
 2.  **Install dependencies:**
     <!-- Fill in: Provide the command to install dependencies (Example: npm install). -->

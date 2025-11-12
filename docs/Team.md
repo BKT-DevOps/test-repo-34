@@ -1,18 +1,18 @@
-# Project Test Ismail Takımı ve Rolleri
+# InfraCoders Takımı ve Rolleri
 <details open>
 <summary><strong>🇹🇷 Türkçe</strong></summary>
 <br>
 Bu projedeki güncel ekip üyelerini ve rollerini görmek için lütfen GitHub'ın kendi takım sayfasını ziyaret edin. Oradaki liste **her zaman günceldir**.
-### ➡️ [Güncel Takım Listesi İçin Tıkla](https://github.com/orgs/BKT-DevOps/teams/Project Test Ismail)
+### ➡️ [Güncel Takım Listesi İçin Tıkla](https://github.com/orgs/BKT-DevOps/teams/InfraCoders)
 ---
 ## 📊 Takım İstatistikleri
 
-- **Proje Adı:** project-test-ismail
-- **Takım Adı:** Project Test Ismail
-- **Proje Lideri:** @ismailaricioglu
-- **Toplam Üye Sayısı:** 4
-- **Maintainer Sayısı:** 1
-- **Member Sayısı:** 3
+- **Proje Adı:** InfraCoders
+- **Takım Adı:** InfraCoders
+- **Proje Lideri:** @flovearth
+- **Toplam Üye Sayısı:** 11
+- **Maintainer Sayısı:** 0
+- **Member Sayısı:** 11
 
 ---
 
@@ -44,18 +44,18 @@ Bu dokümanın amacı ise projedeki rolleri ve sorumlulukları tanımlamaktır.
 
 To see the current members and roles of this project, please visit the official GitHub Team page. The list there is **always up-to-date**.
 
-### ➡️ [Click Here for the Current Team List](https://github.com/orgs/BKT-DevOps/teams/Project Test Ismail)
+### ➡️ [Click Here for the Current Team List](https://github.com/orgs/BKT-DevOps/teams/InfraCoders)
 
 ---
 
 ## 📊 Team Statistics
 
-- **Project Name:** project-test-ismail
-- **Team Name:** Project Test Ismail
-- **Project Lead:** @ismailaricioglu
-- **Total Members:** 4
-- **Maintainers:** 1
-- **Members:** 3
+- **Project Name:** InfraCoders
+- **Team Name:** InfraCoders
+- **Project Lead:** @flovearth
+- **Total Members:** 11
+- **Maintainers:** 0
+- **Members:** 11
 
 ---
 

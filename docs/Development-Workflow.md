@@ -3,7 +3,7 @@
 <summary><strong>🇹🇷 Türkçe</strong></summary>
 <br>
 
-Bu belge, project-test-ismail projesindeki geliştirme süreçleri, standartları ve iş akışları için bir rehberdir.
+Bu belge, InfraCoders projesindeki geliştirme süreçleri, standartları ve iş akışları için bir rehberdir.
 
 ## İş Akışı
 
@@ -36,7 +36,7 @@ Bu belge, project-test-ismail projesindeki geliştirme süreçleri, standartlar�
 
 <br>
 
-This document is a guide for development processes, standards, and workflows in the project-test-ismail project.
+This document is a guide for development processes, standards, and workflows in the InfraCoders project.
 
 ## Workflow
 

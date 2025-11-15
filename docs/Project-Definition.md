@@ -1,11 +1,11 @@
-# Project Test Ismail - Proje Tanımı / Project Definition
+# Infrastructure as Code Project - Proje Tanımı / Project Definition
 
 <details open>
 <summary><strong>🇹🇷 Türkçe</strong></summary>
 
 <br>
 
-Bu belge **Project Test Ismail** projesinin amacını, hedeflerini ve kapsamını tanımlar.
+Bu belge **Infrastructure as Code Project** projesinin amacını, hedeflerini ve kapsamını tanımlar.
 
 ---
 
@@ -37,7 +37,7 @@ Bu belge **Project Test Ismail** projesinin amacını, hedeflerini ve kapsamın�
 
 ## 👥 Proje Ekibi
 
-**Proje Lideri:** @ismailaricioglu
+**Proje Lideri:** @flovearth
 
 **Takım Üyeleri:**
 <!-- Takım üyelerini buraya ekleyin -->
@@ -59,7 +59,7 @@ Bu belge **Project Test Ismail** projesinin amacını, hedeflerini ve kapsamın�
 
 <br>
 
-This document defines the purpose, goals, and scope of **Project Test Ismail** project.
+This document defines the purpose, goals, and scope of **Infrastructure as Code Project** project.
 
 ---
 
@@ -91,7 +91,7 @@ This document defines the purpose, goals, and scope of **Project Test Ismail** p
 
 ## 👥 Project Team
 
-**Project Lead:** @ismailaricioglu
+**Project Lead:** @flovearth
 
 **Team Members:**
 <!-- Add team members here -->
